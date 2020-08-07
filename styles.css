@@ -1,0 +1,17 @@
+<<<<<<< Updated upstream
+=======
+body {
+	background-color: #000000;
+	margin-top: 150px;
+}
+
+h1 {
+  background: -webkit-linear-gradient(52deg, rgba(0,179,255,1) 30%, rgba(89,36,208,1) 48%, rgba(255,87,0,1) 68%);
+);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: cursive;
+  font-size: 75px;
+  text-align: center;
+}
+>>>>>>> Stashed changes
