@@ -37,4 +37,12 @@ h1 {
   text-align: center;
 }
 
+ul {
+  color: #4DB1F8;
+  margin-left: 75px;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter";
+  font-size: 20px;
+  line-height: 25px;
+}
+
 
