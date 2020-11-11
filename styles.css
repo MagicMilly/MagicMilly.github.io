@@ -37,6 +37,22 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  color: #79399F;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter";
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+h3 a {
+  color: #5075E2;
+  text-decoration: none;
+}
+
+h3 a:hover {
+  color: #A64872;
+}
+
 ul {
   color: #4DB1F8;
   margin-left: 75px;
@@ -44,5 +60,21 @@ ul {
   font-size: 20px;
   line-height: 25px;
 }
+
+p {
+  color: #4F94EE;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: justify;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter";
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+p a {
+  color: #BD515A;
+  text-decoration: none;
+}
+
 
 
